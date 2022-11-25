@@ -1,0 +1,14 @@
+{"intents":[
+    {"tag":"Greetings",
+    "patterns":["hello", "hey","hi","how are you?","what's up","how is it going","greetings"],
+    "responses":["Hi there?","Hello!","Hey!","What can I do for you?"]
+},
+    {"tag":"name",
+    "patterns":["what is your name", "and you are?","what should I call you","who are you","what's your name"],
+    "responses":["My name is Ora. I am passionate about Sexual Reproductive Health, the area of focus being PCOS(Poly Cystic Ovarian Syndrom."]
+},
+    {"tag":"PCOS",
+    "patterns":["what is pcos", "tell me about pcos","what is poly cystic ovarian syndrome"],
+    "responses":["PCOS(Poly Cystic Ovarian Syndrome) is a hormonal condition that affects how a woman's ovaries work."]
+}
+]}
